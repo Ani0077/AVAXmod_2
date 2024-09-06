@@ -257,7 +257,7 @@ killall avalanche-network-runner
   
 ## Authors
 
-Lalit Kumar
+Aniket Tiwari
 
 ## License
 
